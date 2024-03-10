@@ -1,0 +1,34 @@
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# Gradle
+build/
+
+# Cucumber Reports
+cucumber-reports/
+
+# Cucumber Test Output
+target/
+
+# Selenium Webdriver logs
+geckodriver.log
+chromedriver.log
+
+# Cucumber Serenity Reports
+target/site/
+
+# Browser drivers
+drivers/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
